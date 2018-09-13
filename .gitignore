@@ -1,0 +1,18 @@
+## maven
+target/
+build/
+
+## idea
+.idea/
+*.iml
+
+## eclipse
+.settings/
+.classpath
+.project
+
+## MacOS
+.DS_store
+
+## Web server auto generate
+ConfigCenter_*
